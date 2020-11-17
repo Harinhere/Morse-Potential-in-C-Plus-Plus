@@ -1,4 +1,3 @@
-// IVR Matrix elements
 #include<iostream>
 #include<math.h>
 #include<fstream>
